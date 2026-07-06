@@ -1,3 +1,4 @@
+import streamlit as st
 # 1. 여행 기간 슬라이더
 travel_days = st.slider(
     "1. 원하는 여행 기간을 선택해주세요 (일)",
