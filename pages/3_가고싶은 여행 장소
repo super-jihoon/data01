@@ -1,4 +1,4 @@
 import streamlit as st
-st.title('가장 가고싶은 여행장소 적기!!')
-name = st.text_input('국가 이름을 적어주세요: ')
-menu = st.text_input('그 국가의 도시를 적어주세요 : ')
+st.title('선호하는 여행 지역 적기!!'),
+name = st.text_input('국가 이름을 적어주세요: '),
+menu = st.text_input('국가의 도시를 적어주세요:' )
